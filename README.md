@@ -15,7 +15,7 @@
 <img width="35%" align="right" alt="My_Gopher" src="https://storage.googleapis.com/gopherizeme.appspot.com/gophers/68d35a2233a8f223a4bab72e2a17bb4bb688f3df.png" />
 
 
-- 🚀 I’m currently working on My personal site and learning all things SaaS.
+- 🚀 I’m currently working on my personal site and learning all things SaaS.
 
 - ✨ I’m currently learning Go and Microservices!
 
