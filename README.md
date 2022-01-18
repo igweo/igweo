@@ -11,7 +11,7 @@
 <div size='20px'> Hey! My name is Onyeka. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me! </h2>
+<h2> About Me!</h2>
 
 <img width="35%" align="right" alt="My_Gopher" src="https://storage.googleapis.com/gopherizeme.appspot.com/gophers/68d35a2233a8f223a4bab72e2a17bb4bb688f3df.png" />
 
